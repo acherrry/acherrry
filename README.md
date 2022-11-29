@@ -50,7 +50,7 @@
 
 ## Github Stats  
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acherrry&layout=compact" align="center" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acherrry" align="center" />
 </div>  
 <br/>  
 
