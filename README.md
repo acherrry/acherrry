@@ -50,9 +50,10 @@
 
 ## Github Stats  
 <div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acherrry&layout=compact)](https://github.com/acherrry/github-readme-stats)
-</div> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acherrry&layout=compact" align="center" />
+</div>  
 <br/>  
+
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=acherrry&&style=flat-square" align="center" />
 </div>  
